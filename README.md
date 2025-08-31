@@ -24,7 +24,7 @@ pip install customtkinter
 ## 🚀 快速开始
 
 ### 运行应用
-
+下载exe  https://github.com/liuyanff/Claude-code-API-configuration-tool/releases/tag/Windows
 ```bash
 python env_manager_darkmode.py
 ```
@@ -71,11 +71,8 @@ claude/
 
 ## 🎨 界面特色
 
-- **响应式设计** - 支持窗口大小调整
-- **深色/浅色主题** - 完整的主题切换支持
-- **现代化卡片布局** - 清晰的配置项展示
-- **实时状态指示** - 显示环境变量设置状态
-- **直观的操作按钮** - 应用、删除等操作一目了然
+<img width="1875" height="1315" alt="屏幕截图 2025-09-01 015250" src="https://github.com/user-attachments/assets/8ae612e0-5b98-4310-84dc-a024d1dd0f9a" />
+<img width="1953" height="1312" alt="屏幕截图 2025-09-01 015241" src="https://github.com/user-attachments/assets/404eaf45-d1e6-4210-8547-c36ae34a0967" />
 
 ## 📝 使用说明
 
@@ -99,3 +96,4 @@ claude/
 ---
 
 💡 **提示**: 在 Windows 系统上，应用配置时会同时设置当前进程的环境变量和系统永久环境变量。
+
