@@ -16,17 +16,23 @@ claude-code 使用 api 有太多的 url 和 apikey 需要管理，很繁琐。�
 - 🖼️ **现代化界面** - 使用 CustomTkinter 构建的现代 UI
 
 ## 📦 依赖要求
-
+第一版
 ```bash
 pip install customtkinter
 ```
-
+第二版
+```bash
+pip install PyQt6
+```
 ## 🚀 快速开始
 
 ### 运行应用
 下载exe  https://github.com/liuyanff/Claude-code-API-configuration-tool/releases/tag/Windows
 ```bash
 python env_manager_darkmode.py
+```
+```bash
+python env_manager_pure_pyqt6.py
 ```
 
 ### 主要功能
@@ -96,4 +102,5 @@ claude/
 ---
 
 💡 **提示**: 在 Windows 系统上，应用配置时会同时设置当前进程的环境变量和系统永久环境变量。
+
 
